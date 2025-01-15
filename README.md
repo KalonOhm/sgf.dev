@@ -2,6 +2,8 @@
 
 ![](https://pbs.twimg.com/profile_banners/2869149607/1567717351/1500x500)
 
+**Important Note:** If you're contributing to the rewrite, please see `sgfdevs-frontend/README.md`
+
 ## Prerequisites
 - [.NET SDK 8.x](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - [Node.js 18.x](https://nodejs.org/en/download/)
